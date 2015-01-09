@@ -1,0 +1,4 @@
+USS	KEYWORD1
+
+init	KEYWORD2
+measure	KEYWORD2
